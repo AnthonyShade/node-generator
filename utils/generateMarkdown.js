@@ -1,4 +1,4 @@
-const licenseBadgeLinks = require("./licenseBadges");
+const licenseBadgeLinks = require("./liscenseBadges");
 
 // function to generate markdown for README
 function generateMarkdown(data) {
